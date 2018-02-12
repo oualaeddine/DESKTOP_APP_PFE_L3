@@ -1,0 +1,2 @@
+C:\Users\hp\Documents\PROJET_FIN_ETUDES_L3\implementation\desktop_app\bin\Debug\desktop_app.exe.config
+C:\Users\berre\Desktop\PROJET_DE_FIN_ETUDES_L3\implementation\desktop_app\bin\Debug\desktop_app.exe.config

@@ -1,0 +1,7 @@
+C:\Users\berre\Desktop\PROJET_DE_FIN_ETUDES_L3\implementation\desktop_app\bin\x86\Debug\desktop_app.exe
+C:\Users\berre\Desktop\PROJET_DE_FIN_ETUDES_L3\implementation\desktop_app\bin\x86\Debug\desktop_app.pdb
+C:\Users\berre\Desktop\PROJET_DE_FIN_ETUDES_L3\implementation\desktop_app\obj\x86\Debug\desktop_app.Form1.resources
+C:\Users\berre\Desktop\PROJET_DE_FIN_ETUDES_L3\implementation\desktop_app\obj\x86\Debug\desktop_app.Properties.Resources.resources
+C:\Users\berre\Desktop\PROJET_DE_FIN_ETUDES_L3\implementation\desktop_app\obj\x86\Debug\desktop_app.csproj.GenerateResource.Cache
+C:\Users\berre\Desktop\PROJET_DE_FIN_ETUDES_L3\implementation\desktop_app\obj\x86\Debug\desktop_app.exe
+C:\Users\berre\Desktop\PROJET_DE_FIN_ETUDES_L3\implementation\desktop_app\obj\x86\Debug\desktop_app.pdb
